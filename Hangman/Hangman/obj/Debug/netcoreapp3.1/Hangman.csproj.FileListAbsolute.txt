@@ -1,0 +1,16 @@
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.Form1.resources
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.GenerateResource.cache
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.Properties.Resources.resources
+C:\Users\Randy.RANDY-SKYLAKE\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.AssemblyReference.cache
